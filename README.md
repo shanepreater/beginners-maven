@@ -1,2 +1,2 @@
 # beginners-maven
-Course project for the Maven course
+Course project for the Maven course.
